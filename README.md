@@ -1,6 +1,32 @@
-Explorando Padrões de Projetos na Prática com Java
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
+Exploring Design Patterns
 
-Singleton
-Strategy/Repository
-Facade
+
+For develop this project I used the following technologies: <\br>
+
+✅ Java11; <\br>
+✅ IntelliJ Idea <\br>
+✅ Git <\br>
+✅ Github <\br>
+✅ Maven <\br>
+✅ Lombok <\br>
+✅ SpringDoc Open API - v1.6.11 <\br>
+
+In this process I obtained the next following knowhows: <\br>
+
+✅ Design Patterns <\br>
+✅ Singleton <\br>
+✅ Facade <\br>
+✅ Strategy <\br>
+
+Next Steps: <\br>
+
+✅ Implements a new REST API using the concepts obtained in this module; <\br>
+
+👉 Follow me: <\br>
+
+👉 Github. <\br>
+👉 Linkedin. https://www.linkedin.com/in/iurysalino/
+
+
+⚠ And please give me feedbacks, this is very important for my evolution.
+Thanks, see you next!
