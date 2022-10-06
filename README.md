@@ -1,7 +1,7 @@
 Exploring Design Patterns
 
 
-For develop this project I used the following technologies: <\br>
+For develop this project I used the following technologies: </br>
 
 ✅ Java11; <\br>
 ✅ IntelliJ Idea <\br>
