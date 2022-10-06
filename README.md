@@ -13,20 +13,20 @@ For develop this project I used the following technologies: </br>
 
 In this process I obtained the next following knowhows: <\br>
 
-✅ Design Patterns <\br>
-✅ Singleton <\br>
-✅ Facade <\br>
-✅ Strategy <\br>
+✅ Design Patterns </br>
+✅ Singleton </br>
+✅ Facade </br>
+✅ Strategy </br>
 
-Next Steps: <\br>
+Next Steps: </br>
 
-✅ Implements a new REST API using the concepts obtained in this module; <\br>
+✅ Implements a new REST API using the concepts obtained in this module; </br>
 
-👉 Follow me: <\br>
+👉 Follow me: </br>
 
-👉 Github. <\br>
-👉 Linkedin. https://www.linkedin.com/in/iurysalino/
+👉 Github. </br>
+👉 Linkedin. https://www.linkedin.com/in/iurysalino/ </br>
 
 
-⚠ And please give me feedbacks, this is very important for my evolution.
-Thanks, see you next!
+⚠ And please give me feedbacks, this is very important for my evolution. </br>
+Thanks, see you next!</br>
